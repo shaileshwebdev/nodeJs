@@ -13,3 +13,9 @@ core module is predefine function
  
 ##http is handle request and response
 ## createServer is taken as function as parameter
+
+## server status 200 --ok
+## server status 201 --created
+## server status 404 --not found
+## server status 500 --server error
+
