@@ -1,0 +1,15 @@
+## console in cmd line and console in browser is both are different each other
+## console in cmd line is module of node js work as similar to js console
+
+#what is use of filter function
+filter are use to find specific value of array and filter work on array
+
+## core module----console,fs,buffer,http are core module
+core module is predefine function 
+
+
+## global module is not require to import
+## non global function is require to declare 
+ 
+##http is handle request and response
+## createServer is taken as function as parameter
