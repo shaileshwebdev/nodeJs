@@ -19,3 +19,11 @@ core module is predefine function
 ## server status 404 --not found
 ## server status 500 --server error
 
+## what is buffer??
+buffer is temprory memory location 
+
+## What is asynchorus programming
+asynchronous means two or more tasks can be done at the same time
+
+## What is synchronous programming?
+synchronous means one task will wait for another task to complete before it start executing

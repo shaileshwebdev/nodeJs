@@ -1,3 +1,5 @@
+// Taking input from command line 
+
 const fs = require('fs');
 
 const input = process.argv;
